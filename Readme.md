@@ -1,11 +1,10 @@
 # Amazon Page
 
 ## Amazon Homepage Clone 
-This project is a responsive clone of the Amazon homepage, built using HTML, CSS. The goal of this project is to replicate the layout, style, and interactive of the Amazon homepage,showcasing key technologies and web development practices.
+This project is a clone of the Amazon homepage, built using HTML, CSS. The goal of this project is to replicate the layout, style, and interactive of the Amazon homepage,showcasing key technologies and web development practices.
 
 ## Features
-
-- Responsive navigation bar with logo, address, search, account, returns, and cart.
+- Navigation bar with logo, address, search, account, returns, and cart.
 - Hero section with promotional message.
 - Shop section displaying various product categories.
 - Footer with informational links and copyright.
