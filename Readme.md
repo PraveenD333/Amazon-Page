@@ -1,24 +1,7 @@
-# Amazon Clone
+# Amazon Page
 
-This is a simple Amazon homepage clone built with HTML and CSS.
-
-## Project Structure
-
-```
-index.html
-style.css
-Images/
-    amazon_logo.png
-    box1_image.jpg
-    box2_image.jpg
-    box3_image.jpg
-    box4_image.jpg
-    box5_image.jpg
-    box6_image.jpg
-    box7_image.jpg
-    box8_image.jpg
-    hero_image.jpg
-```
+## Amazon Homepage Clone 
+This project is a responsive clone of the Amazon homepage, built using HTML, CSS. The goal of this project is to replicate the layout, style, and interactive of the Amazon homepage,showcasing key technologies and web development practices.
 
 ## Features
 
@@ -27,16 +10,12 @@ Images/
 - Shop section displaying various product categories.
 - Footer with informational links and copyright.
 
-## How to Run
-
-1. Clone or download this repository.
-2. Make sure all image files are present in the `Images` folder.
-3. Open `index.html` in your web browser.
-
+ 
 ## Dependencies
-
 - [Font Awesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css) for icons.
 
-## Author
+## Tech Stack  
+- HTML5: Structure of the web page.  
+- CSS3: Styling and layout of the homepage.
 
-Created by
+![My Skills](https://skillicons.dev/icons?i=html,css&theme=light&perline=3)
