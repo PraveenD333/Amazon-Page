@@ -12,7 +12,7 @@ This project is a responsive clone of the Amazon homepage, built using HTML, CSS
 
  
 ## Dependencies
-- [Font Awesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css) for icons.
+- Font Awesome for icons.
 
 ## Tech Stack  
 - HTML5: Structure of the web page.  
